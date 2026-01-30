@@ -1,0 +1,177 @@
+@media screen and (max-width: 1900px) {
+    .hdr-logo { padding: 10px 58px 0 49px;}
+    .nav-menu { padding: 0;}
+    .nav-menu ul li { margin: 0 29px;}
+    .contact { padding: 29px 42px 33px 76px;0}
+    .practice-sec .container{max-width:1760px;}
+    .meet-sec h3 {font-size: 108px;}
+    .meet-sec h3 strong {font-size: 180.09px;}
+    .we-win-sec .text-heading {font-size: 156px;}
+    .win-rt {padding-left: 24px;}
+    .we-win-sec { padding: 244px 0 207px;}
+}
+@media screen and (max-width:1800px){
+.practice-sec .container{max-width:1650px;}
+    .hdr-logo { padding: 8px 51px 0 50px;}
+    .contact {padding: 32px 40px 32px 60px;}
+    .contact p {font-size: 15px;}
+    .contact a { font-size: 27px;}
+    .nav-menu ul li { margin: 0 27px;}
+    .nav-menu ul li a { font-size: 17px; padding-bottom: 9px;}
+    .hdr-logo {padding: 8px 57px 0 51px;}
+    .meet-sec h3 {font-size: 90px;top: 21%;}
+    .meet-sec h3 strong { font-size: 158.09px;}
+    .we-win-sec .text-heading {font-size: 150px;    margin: 0 0 16px;}
+    .we-win-sec {padding: 229px 0 201px;}
+}
+@media screen and (max-width:1700px){
+   .practice-sec .container{max-width:1550px;} 
+    .contact { padding: 30px 36px 29px 60px;}
+    .contact a {font-size: 26px;    margin-top: 2px;}
+    .nav-menu ul li {margin: 0 25px;}
+    .meet-sec h3 {font-size: 76px;top: 26%;}
+    .meet-sec h3 strong {font-size: 124.09px;}
+    .bnr-rt { margin-right: 20px;}
+    .prct-item h4 {font-size: 32px;}
+    .prct-item .prct-itm-name {bottom: 37px;}
+    .we-win-sec {padding: 213px 0 180px;}
+    .we-win-sec .text-heading {font-size: 148px; margin: 0 0 15px;}
+}
+@media screen and (max-width:1600px){
+    .practice-sec .container, .container{max-width:1400px;}
+    .hdr-logo {    padding: 0px 52px 0 43px;}
+    .nav-menu ul li {margin: 0 23px;}
+    .nav-menu ul li a {font-size: 15px;}
+    .bnr-lft h1 {font-size: 80px;margin-bottom: 31px;}
+    a.cmn-btn {font-size: 20px;padding: 17px 22px;}
+    .banner-sec {    padding: 75px 0 0;}
+    .bnr-rt {margin-right: 57px;}
+    .meet-cn{ justify-content: right; gap: 0px;}
+    .meet-cnt {justify-content: right;gap: 0px;}
+    .meet-sec h3 strong {font-size: 116.09px;}
+    .case-choose-sec::after {height: 29%;}
+    .case-item {padding: 54px 38px 51px;}
+    .case-item h3 {font-size: 96px; margin-bottom: 12px;}
+    .case-item h5 {font-size: 32px;margin-bottom: 9px;}
+    .case-item p {font-size: 19.3px;}
+    .cases-sec {padding-bottom: 115px;}
+    .about-practice-sec {padding: 296px 0 324px;}
+    .choose-sec {padding: 0;}
+    .choose-list { padding: 0;}
+    .case-choose-sec {padding: 315px 0 306px;}
+    .contact a::before {transform: scale(0.9);}
+    .we-win-sec {padding: 185px 0 163px;}
+    .we-win-sec .text-heading {font-size: 140px;margin: 0 0 11px;}
+    .win-rt { padding-left: 23px;}
+    .we-win-sec p {font-size: 19px;    margin-bottom: 17px;}
+    .win-btns {justify-content: start;gap: 23px;}
+    .tstmnl-sec h2 {text-align: start;}
+
+}    
+@media screen and (max-width:1500px) {
+    .bnr-lft {
+    width: 63%;
+    padding: 65px 0 0 8px;}
+}
+@media screen and (max-width:1440px){
+    .practice-sec .container, .container{max-width:1200px;}
+    .contact p {font-size: 14px;    }
+    .contact a {font-size: 25px;    }
+    .contact {    padding: 26px 36px 26px 60px;}
+    .nav-menu ul li a {font-size: 14px;}
+    .nav-menu ul li {  margin: 0 11px;}
+    .hdr-logo {    padding: 0px 43px 0 39px;}
+    .contact a::before {    transform: scale(0.8);}
+    .banner-sec {padding: 55px 0 0;}
+    .bnr-lft {padding: 34px 0 0 49px;}
+    .bnr-lft h1 {font-size: 67px;margin-bottom: 22px;}
+    .bnr-lft h1 strong {    font-size: 49px;}
+    a.cmn-btn {font-size: 18px;padding: 16px 19px;}
+    .prct-item h4 {font-size: 25px;}
+    .prct-item .prct-itm-name {bottom: 22px;}
+    .prct-blk {    margin-bottom: 52px;}
+    .about-practice-sec { padding: 296px 0 275px;}
+    .meet-lft {width: 37%;}
+    .meet-sec { padding: 140px 0 84px;}
+    .case-item {padding: 48px 35px 44px;}
+    .case-item h3 {font-size: 81px;margin-bottom: 7px;}
+    .case-item h5 {font-size: 26px;margin-bottom: 7px;}
+    .case-item p {font-size: 18.3px;}
+    .cases-sec {padding-bottom: 106px;}
+    .case-choose-sec { padding: 315px 0 297px;}
+    .we-win-sec .text-heading {font-size: 130px;margin: 0 0 9px;}
+    .we-win-sec p { font-size: 17px;margin-bottom: 14px;}
+    .win-btns { gap: 21px;}
+    .we-win-sec {padding: 178px 0 153px;}
+    .tstmnl-sec h2 {text-align: start;margin-bottom: 40px;}
+    .tstmnl-itm {width: 100%; padding: 53px 44px 53px 53px;}
+    .tstmnl-itm p {font-size: 17px; line-height: 1.9;margin-bottom: 22px;}
+    .tstmnl-stars {    margin: 0 auto 14px;}
+    .tstmnl-itm h6 {font-size: 23px;}
+    .tstmnl-itm::after, .tstmnl-itm::before {transform: scale(0.9);}
+    .text-heading {font-size: 57px;margin: 0 0 22px}
+    .faqs a {font-size: 24px;}
+    .faqs {padding: 30px 45px 30px 34px;margin-bottom: 9px;}
+    .faqs-rt {width: 26%;margin: -26px 0px 0 0;}.tstmnl-sec { padding: 285px 0 55px;}
+    .faq-sec {padding: 42px 0 323px;}
+    .ftr-cnt { justify-content: center; gap: 104px;}
+    .ftr-logo { width: 88%; margin-bottom: 60px;}
+    .ftr-cnt h5 {font-size: 29px;    margin-bottom: 6px;}
+    .ftr-itm::before {transform: scale(0.9);}
+    .ftr-cnt p {font-size: 19px;}
+    .ftr-cnt .ftr-num a { font-size: 34px;}
+    .ftr-itm {padding: 13px 0 0 74px;position: relative;margin-bottom: 32px;}
+    .ftr-media a { transform: scale(0.9);}
+    .ftr-rt { width: 42.4%;    padding: 46px 42px 42px;}
+    .ftr-rt h2 {font-size: 60px;}
+    .ftr-rt p {margin-bottom: 21px;}
+    input {    padding: 17px 23px;font-size: 15px;}
+    .frm-btm {    margin-bottom: 37px;}
+    .ftr-menu .nav-menu {padding: 24px 0;}
+    .cpy-rt {padding: 27px 0 25px;}
+    .cpy-rt p {font-size: 16px;}
+    .cpy-rt a {font-size: 16px;}
+}
+@media screen and (max-width:1366px) {}
+@media screen and (max-width:1280px) {}
+@media screen and (max-width:1240px){
+   .practice-sec .container, .container{max-width:970px;}
+    .hdr-logo {padding: 5px 23px 0 20px;}
+    .nav-menu ul li {
+        margin: 0 8px;
+    }
+        .nav-menu ul li a {
+        font-size: 13px; padding-bottom: 5px;
+    }
+        .contact {
+        padding: 18px 29px 18px 55px;
+    }
+        .contact p {
+        font-size: 12px;
+    }
+    .contact a {
+        font-size: 23px;
+    }
+        .contact a::before {
+        transform: scale(0.7);
+    }
+
+}
+@media screen and (max-width:1080px) {}
+@media screen and (max-width:991px){
+.practice-sec .container, .container{max-width:720px;}
+}
+@media screen and (max-width:767px){
+.practice-sec .container, .container{max-width:100%;padding:0 15px;}
+}
+@media screen and (max-width:680px) {}
+@media screen and (max-width:640px) {}
+@media screen and (max-width:600px) {}
+@media screen and (max-width:580px) {}
+@media screen and (max-width:480px) {
+ 
+ 
+}
+@media screen and (max-width:440px) {}
+@media screen and (max-width:375px) {}
+@media screen and (max-width:360px) {}
