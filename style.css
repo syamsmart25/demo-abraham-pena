@@ -1447,6 +1447,11 @@ textarea{
     letter-spacing: 0.28px;
     color: #000;
 }
+.frm-rt {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
 .frm-btn a.cmn-btn {
     padding: 20px 55px;
 }
